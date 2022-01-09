@@ -1,4 +1,4 @@
-**Privacy Policy**
+*Privacy Policy*
 
 Bori Oludemi built the SongUpdater app as a Free app. This SERVICE is provided by Bori Oludemi at no cost and is intended for use as is.
 
